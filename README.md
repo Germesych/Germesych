@@ -15,5 +15,8 @@ Last projeects
 ![sql](https://img.shields.io/badge/-sql-grey?style=for-the-badge&logo=sql)
 ![wordpress](https://img.shields.io/badge/-wordpress-grey?style=for-the-badge&logo=wordpress)
 
-Follow Me
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn)
+### Follow Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aliaksandr-auchynnikau-95a210194/)
+[![FaceBook](https://img.shields.io/badge/-FaceBook-grey?style=for-the-badge&logo=FaceBook)](https://www.facebook.com/kaiot)
+[![Telegram](https://img.shields.io/badge/-Telegram-grey?style=for-the-badge&logo=Telegram)](https://t.me/alexwedstudio)
