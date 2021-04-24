@@ -12,6 +12,8 @@ Last projeects
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python)
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php)
+![sql](https://img.shields.io/badge/-sql-grey?style=for-the-badge&logo=sql)
 ![wordpress](https://img.shields.io/badge/-wordpress-grey?style=for-the-badge&logo=wordpress)
 
 Follow Me
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn)
