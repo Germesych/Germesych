@@ -6,6 +6,6 @@ Last projeects
 
 ### Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=JavaScript)
 
 Follow Me
