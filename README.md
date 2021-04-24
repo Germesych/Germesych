@@ -19,6 +19,8 @@
 [![FaceBook](https://img.shields.io/badge/-FaceBook-grey?style=for-the-badge&logo=FaceBook)](https://www.facebook.com/kaiot)
 [![Telegram](https://img.shields.io/badge/-Telegram-grey?style=for-the-badge&logo=Telegram)](https://t.me/alexwedstudio)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germesych&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=germesych&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germesych&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=germesych)](https://github.com/anuraghazra/github-readme-stats)
