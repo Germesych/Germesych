@@ -1,0 +1,161 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+  line-height: 1;
+  font-size: 10px;
+  -ms-text-size-adjast: 100%;
+  -moz-text-size-adjast: 100%;
+  -webkit-text-size-adjast: 100%;
+}
+
+a,
+a:visited {
+  text-decoration: none;
+}
+
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+nav,
+main,
+section,
+footer,
+header,
+aside {
+  display: block;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+input,
+button,
+textarea {
+  font-family: inherit;
+}
+
+input::-ms-clear {
+  display: none;
+}
+
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+ol{
+  display: block;
+  list-style-type: decimal;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+nav > ul {
+  margin: 0;
+  padding: 0;
+  li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+}
+
+img {
+  vertical-align: top;
+}
+
+input {
+  background: transparent;
+}
+
+.error {
+  border: 2px solid #ff4019 !important;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0px auto;
+}
+
+.bth {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.is-hidden {
+  display: none !important;
+}
+
+.site-container {
+  overflow: hidden;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+body {
+  color: rgba(255, 255, 255, 0.55);
+  background: #26262d;
+  font-size: 1.4rem;
+}
+.container-wrap{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main-wrap{
+  background: #31313a;
+  margin: auto;
+  margin: 8vh 6vw;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 84vh;
+  max-width: 1268px;
+  max-height: 674px;
+  display: flex;
+}
+.content{
+  width: 710px;
+  height: 645px;
+  margin: auto 0;
+}
