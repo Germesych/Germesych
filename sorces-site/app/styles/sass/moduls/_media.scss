@@ -1,0 +1,194 @@
+@media (max-width: 1200px) {
+    .root-wrap {
+        flex-wrap: wrap;
+    }
+
+    .main-wrap {
+        max-height: 100%;
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+
+    .nav {
+        width: 100%;
+        margin: 0px;
+
+        .nav-top__list {
+            display: flex;
+
+        }
+    }
+
+    .header {
+        max-width: 45%;
+        height: 675px;
+    }
+
+    .content-main {
+        max-width: 55%;
+        height: 675px;
+    }
+}
+@media (max-width: 1150px){
+    #works .title h2{
+        width: auto;
+    }
+}
+
+@media (max-width: 980px) {
+    #bgvideo{
+        display: none;
+    }
+    .nav {
+        position: absolute;
+        padding: 0;
+        margin-top: 2px;
+        margin-left: 2px;
+        z-index: 9;
+
+        .burger {
+            margin: 0;
+
+            margin-right: 20px;
+        }
+
+        .nav-top__list {}
+    }
+
+    .header {
+        max-width: 100%;
+        height: auto;
+
+        .top-blk {
+            height: 200px;
+        }
+
+        .top-cont {
+            height: 350px;
+        }
+
+        .header__block-img {
+            top: -165px;
+        }
+        .header__buttons{
+            border-bottom: 1px solid rgba(255,255,255,.2);
+        }
+    }
+
+    .content-main {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 780px) {
+    #left-menu{
+        max-width: 90%;
+    }
+}
+
+@media (max-width: 680px) {
+    #left-menu{
+        max-width: 100%;
+        .close{
+        right: 0;
+    }
+    } 
+    #contacts {
+        .cont {
+            justify-content: center;
+            .content p {
+                width: 100%;
+            }
+        }
+    }
+}
+@media (max-width: 620px) {
+    #about .about-me .about-me__description p{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    #about .my-skills .wrap{
+        flex-wrap: wrap;
+        justify-content: center;
+        .my-skills__block{
+            width: 80%;
+            margin-bottom: 30px;
+        }
+    }
+    #about .my-price .wrap{
+        justify-content: center;
+    }
+    #about .my-price .my-price__card{
+        width: 80%;
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 580px) {}
+
+@media (max-width: 480px) {
+    #works .title{
+        flex-wrap: wrap;
+        height: auto;
+        padding: 10px 10px;
+        h2{
+            width: 100%;
+            margin-bottom: 25px;
+            margin-left: 10px;
+        }
+        .filter{
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            span{
+                margin-bottom: 10px;
+            }
+        }
+    }
+    #about .my-price .my-price__card{
+        width: 95%;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 420px){
+    .nav {
+        .nav-top__list {
+            flex-wrap: wrap;
+
+            .nav-top__link {
+                width: 25%;
+            }
+
+            .burger {
+                margin-right: 70%;
+                width: 85px;
+            }
+        }
+    }
+    .header {
+        .header__block-img {
+            top: -80px;
+        }
+    }
+}
+
+@media (max-width: 320px) {
+    .nav {
+        .nav-top__list {
+            flex-wrap: wrap;
+
+            .nav-top__link {
+                width: 25%;
+            }
+
+            .burger {
+                margin-right: 160px;
+                width: 85px;
+            }
+        }
+    }
+}
