@@ -1,7 +1,5 @@
 [![Header](https://github.com/Germesych/Germesych/blob/main/assets/header.jpg)](https://alexws.by/)
 
-# No WAR!!! Я против войны!
-
 ## Я FrontEnd разработчик. Разработка для меня не просто хобби, это скорее смысл жизни.
 
 ### Languages and Tools
