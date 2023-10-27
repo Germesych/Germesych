@@ -1,6 +1,12 @@
 [![Header](https://github.com/Germesych/Germesych/blob/main/assets/header.jpg)](https://alexws.by/)
 
-## Я FrontEnd разработчик. Разработка для меня не просто хобби, это скорее смысл жизни.
+## Я FullStack разработчик. Разработка для меня не просто хобби, это скорее смысл жизни.
+```text
+Backend: Django, Flask, FastAPI
+Frontend: javascript, html, css (scss, less), vue-2/3, Bootstrap
+CMS: wordpress
+Additionally: Docker, Linux, PostgreSQL, Redis, MongoDB
+```
 
 ### Languages and Tools
 
