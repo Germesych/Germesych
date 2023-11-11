@@ -18,6 +18,7 @@ Additionally: Docker, Linux, PostgreSQL, Redis, MongoDB
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php)
 ![sql](https://img.shields.io/badge/-sql-grey?style=for-the-badge&logo=mysql)
 ![wordpress](https://img.shields.io/badge/-wordpress-grey?style=for-the-badge&logo=wordpress)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Follow Me
 
