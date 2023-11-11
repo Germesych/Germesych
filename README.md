@@ -10,6 +10,7 @@ Additionally: Docker, Linux, PostgreSQL, Redis, MongoDB
 
 ### Languages and Tools
 <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D">
 
 
 ### Follow Me
