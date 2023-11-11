@@ -1,15 +1,8 @@
 [![Header](https://github.com/Germesych/Germesych/blob/main/assets/header.jpg)](https://alexws.by/)
 
-## Я FullStack разработчик. Разработка для меня не просто хобби, это скорее смысл жизни.
-```text
-Backend: Django, Flask, FastAPI
-Frontend: javascript, html, css (scss, less), vue-2/3, Bootstrap
-CMS: wordpress
-Additionally: Docker, Linux, PostgreSQL, Redis, MongoDB
-```
-
 ### Languages and Tools
-<b>Backend:</b> ![https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### Backend: 
+![https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -20,6 +13,7 @@ Additionally: Docker, Linux, PostgreSQL, Redis, MongoDB
 
 ![https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+#### Frontend:
 ![https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
