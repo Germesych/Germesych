@@ -1,7 +1,16 @@
 [![Header](https://github.com/Germesych/Germesych/blob/main/assets/header.jpg)](https://alexws.by/)
 
-### Languages and Tools
-## 🛠 Технологии 
+# Овчинников Александр 
+
+### 💻 FullStack разработчик | 🚀 В индустрии с 2020 года
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+## 🛠 Технологический стек
+
 #### Backend:  
 ![Strapi](https://img.shields.io/badge/Strapi-8A75FF?style=for-the-badge&logo=strapi&logoColor=white) 
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) 
