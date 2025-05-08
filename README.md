@@ -51,6 +51,6 @@
 ![https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Germesych&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![WakaTime](https://wakatime.com/badge/user/ВАШ_ID.svg)](https://wakatime.com/@germesych)
