@@ -1,13 +1,11 @@
-[![Header](https://github.com/Germesych/Germesych/blob/main/assets/header.jpg)](https://alexws.by/)
-
 # Овчинников Александр 
 
 ### 💻 FullStack разработчик | 🚀 В индустрии с 2020 года
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexws_com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Germesych)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliaksandr-auchynnikau-fullstack/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6881172@gmail.com)
 
 ## 🛠 Технологический стек
 
@@ -51,12 +49,3 @@
 ![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
 ![https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### Follow Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aliaksandr-auchynnikau-95a210194/)
-[![Telegram](https://img.shields.io/badge/-Telegram-grey?style=for-the-badge&logo=Telegram)](https://t.me/alexws_com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germesych&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=germesych&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
