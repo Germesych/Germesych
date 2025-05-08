@@ -53,4 +53,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Germesych&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![WakaTime](https://wakatime.com/badge/user/ВАШ_ID.svg)](https://wakatime.com/@germesych)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=germesych&layout=compact)](https://wakatime.com/@germesych)
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=germesych&layout=compact)](https://wakatime.com/@germesych)
