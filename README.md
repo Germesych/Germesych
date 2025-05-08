@@ -35,7 +35,7 @@
 ### Follow Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aliaksandr-auchynnikau-95a210194/)
-[![Telegram](https://img.shields.io/badge/-Telegram-grey?style=for-the-badge&logo=Telegram)](https://t.me/alexwedstudio)
+[![Telegram](https://img.shields.io/badge/-Telegram-grey?style=for-the-badge&logo=Telegram)](https://t.me/alexws_com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germesych&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
